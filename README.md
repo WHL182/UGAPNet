@@ -1,4 +1,5 @@
 Dependencies 
+
 ⚫ Python 3.8
 ⚫ PyTorch 1.7.0
 ⚫ cuda 11.0
